@@ -7,5 +7,5 @@ git commit -m "any message"
 git remote add origin ctrl+v
 git push origin master
 git remote -v
+addsd
 """
-
